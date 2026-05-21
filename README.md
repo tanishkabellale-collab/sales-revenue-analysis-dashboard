@@ -24,7 +24,7 @@ The dashboard helps analyze:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Files Included
 - SalesDashboard.pbix
